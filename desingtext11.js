@@ -52,8 +52,8 @@ function change(_in, _out, _hax, _old, _egi, _spk, _bal, _lov, _cra, _lie, _flp,
 function farbe1(_in, _out)
 {
   var s="";
-  var a="→         ";
-  var e="";
+  var a="●▬▬๑۩";
+  var e="۩๑▬▬●";
   var n=_in.value.concat ( );
   _out.value=a+n+e;
 }
@@ -70,7 +70,7 @@ function farbe3(_in, _out)
   var s="";
   var a="░▓██ ♥► ";
   var e=" ◄♥ ██▓░ ";
-  var n=_bal.value.concat ( );
+  var n=_in.value.concat ( );
   _out.value=a+n+e;
 }
 function farbe4(_in, _out)
@@ -110,7 +110,7 @@ function farbe7(_in, _out)
 function farbe8(_in, _out)
 {
   var s="";
-  var a="";
+  var a="♥/(,")\.(".)♥";
   var e=" ᶫᵒᵛᵉˢᵧₒᵤ ღ";
   var n=_in.value.concat ( );
   _out.value=a+n+e;
@@ -126,8 +126,8 @@ function farbe9(_in, _out)
 function farbe10(_in, _out)
 {
   var s="";
-  var a="(-.(-.(-.(-";
-  var e="-).-).-).-)";
+  var a="- · = »‡« ";
+  var e="»‡« = · -";
   var n=_in.value.concat ( );
   _out.value=a+n+e;
 }
@@ -142,8 +142,8 @@ function farbe11(_in, _out)
 function farbe12(_in, _out)
 {
   var s="";
-  var a="°o.O ";
-  var e=" O.o°";
+  var a="♥—(•·÷[◊";
+  var e="◊]÷·•)—♥";
   var n=_in.value.concat ( );
     _out.value=a+n+e;
 }
@@ -158,8 +158,8 @@ function farbe13(_in, _out)
 function farbe14(_in, _out)
 {
   var s="";
-  var a="(¯`·._)";
-  var e="(¯`·._)";
+  var a="♫—¤÷(`[¤*";
+  var e="*¤]´)÷¤—♪";
   var n=_in.value.concat ( );
   _out.value=a+n+e;
 }
@@ -174,8 +174,8 @@ function farbe15(_in, _out)
 function farbe16(_in, _out)
 {
   var s="";
-  var a="~²º¹²~";
-  var e="~²º¹²~";
+  var a="ꕥ⊱";
+  var e="•∘✩*";
   var n=_in.value.concat ( );
   _out.value=a+n+e;
 }
@@ -198,8 +198,8 @@ function farbe18(_in, _out)
 function farbe19(_in, _out)
 {
   var s="";
-  var a="...(¯`•´¯)___(¯`•´¯)__";
-  var e="__(¯`•´¯)___(¯`•´¯)...";
+  var a="♔";
+  var e="•'¯¥¯'•";
   var n=_in.value.concat ( );
   _out.value=a+n+e;
 }
