@@ -70,7 +70,7 @@ function farbe3(_in, _out)
   var s="";
   var a="░▓██ ♥► ";
   var e=" ◄♥ ██▓░ ";
-  var n=_in.value.concat ( );
+  var n=_bal.value.concat ( );
   _out.value=a+n+e;
 }
 function farbe4(_in, _out)
