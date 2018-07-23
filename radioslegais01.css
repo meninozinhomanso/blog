@@ -13,9 +13,9 @@
 
 
 .webPlayer .controls .leftblock { position: absolute; left: 3px; width: 50px; }
-.webPlayer .controls .leftblock .play { display: block; width: 40px; height: 40px; background: url("../img/playerUI.png") no-repeat 0 1px; opacity: 0.8; }
+.webPlayer .controls .leftblock .play { display: block; width: 40px; height: 40px; background: url("https://3.bp.blogspot.com/-IL8JuA3IeLc/W1XiHdX1anI/AAAAAAAAxNc/0BxNDxnTT44pJ3p4xqODUEQA9EnoXEbrwCLcBGAs/s1600/playerUI.png") no-repeat 0 1px; opacity: 0.8; }
 .webPlayer .controls .leftblock .play:hover { opacity: 1; }
-.webPlayer .controls .leftblock .pause { display: block; width: 40px; height: 40px; background: url("../img/playerUI.png") no-repeat -40px 1px; opacity: 0.8; }
+.webPlayer .controls .leftblock .pause { display: block; width: 40px; height: 40px; background: url("https://3.bp.blogspot.com/-IL8JuA3IeLc/W1XiHdX1anI/AAAAAAAAxNc/0BxNDxnTT44pJ3p4xqODUEQA9EnoXEbrwCLcBGAs/s1600/playerUI.png") no-repeat -40px 1px; opacity: 0.8; }
 .webPlayer .controls .leftblock .pause:hover { opacity: 1; }
 .webPlayer .controls .progress { position: relative; display: block; margin: 0 130px 0 50px; text-align: left; }
 .webPlayer .controls .progress span { font-size: 12px; margin-left: 1px; color: #f0f0f0; }
